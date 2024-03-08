@@ -15,3 +15,7 @@ CREATE TABLE `student` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=latin1;
 
+select * from student;
+insert into student values
+		(2,"Hitansh","sharma","Hitansh12@gmail.com"),
+        (3,"Pari","sharma","Pari12@gmail.com");

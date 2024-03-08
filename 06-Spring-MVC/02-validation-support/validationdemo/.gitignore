@@ -31,12 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-!src/main/resources/application.properties
-
-code
-/code
-.code
-
-!src/main/resources/database.properties
-database.properties
-*database.properties
