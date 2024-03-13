@@ -1,5 +1,4 @@
 USE `employee_directory`;
-
 DROP TABLE IF EXISTS `authorities`;
 DROP TABLE IF EXISTS `users`;
 
@@ -49,4 +48,5 @@ VALUES
 ('susan','ROLE_MANAGER'),
 ('susan','ROLE_ADMIN');
 
-
+select * from authorities;
+select * from users;
